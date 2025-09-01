@@ -7,7 +7,7 @@
 
 <br><br>
 
-- 👨‍💻 I'm a Senior at Faculty of Computers and Artificial Intelligence Benha University.
+- 👨‍💻 I am a graduate from the Faculty of Computers and Artificial Intelligence, Benha University, and a Junior Flutter Developer with 3 years of experience in mobile application development using Flutter. Passionate about building cross-platform apps with clean architecture and modern design patterns, eager to learn, and ready to contribute to impactful projects.
   
 - 🧑‍🎓I’m currently learning **Flutter and AI**
 
